@@ -1,6 +1,6 @@
 # Hey! What's up? 👋
 
-I know absolutely ✨ # N O T H I N G ✨
+I know absolutely # yooo
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
