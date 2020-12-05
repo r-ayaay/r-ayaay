@@ -1,7 +1,5 @@
 # Hey! What's up? <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" width="30px">
-<p>
-        <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/me.png" width="500px" align="right">
-</p>
+<img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/me.png" width="500px" align="right">
         I know absolutely ✨nothing✨..... for now.
 
 
