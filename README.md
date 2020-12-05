@@ -1,4 +1,4 @@
-# Hey! What's up? <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif">
+# Hey! What's up? <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" width="30px">
 
 I know absolutely ✨nothing✨
 
