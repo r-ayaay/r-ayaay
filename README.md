@@ -1,5 +1,5 @@
 # Hey! What's up? <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" width="30px">
-        I know absolutely ✨nothing✨..... for now.
+        I know absolutely __*NOTHING*__..... for now.
 
 ### :muscle: I'm currently learning:
 * still ✨nothing✨
