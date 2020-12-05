@@ -1,8 +1,19 @@
 # Hey! What's up? <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" width="30px">
+<p>
+        <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/me.png" width="500px" align="right">
+</p>
+        I know absolutely ✨nothing✨..... for now.
 
-I know absolutely ✨nothing✨
 
-.... for now
+
+
+
+
+
+
+
+
+        
 
 ## :muscle: I'm currently learning:
  • still ✨nothing✨
