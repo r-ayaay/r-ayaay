@@ -3,6 +3,7 @@
 
 ### :muscle: I'm currently learning:
 ###### * still ✨ __*NOTHING*__ ✨
+<img src="https://img.shields.io/badge/-NOTHING-red?style=for-the-badge&logo=appveyor">
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
