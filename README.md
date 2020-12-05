@@ -1,8 +1,8 @@
 # Hey! What's up? <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" width="30px">
-        I know absolutely __*NOTHING*__..... for now.
+   I know absolutely ✨ __*NOTHING*__ ✨
 
 ### :muscle: I'm currently learning:
-* still ✨nothing✨
+###### * still ✨ __*NOTHING*__ ✨
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
