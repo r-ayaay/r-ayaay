@@ -1,4 +1,4 @@
-# Hey! What's up? 👋
+# Hey! What's up? 
 
 I know absolutely ✨nothing✨
 
