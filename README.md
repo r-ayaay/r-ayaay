@@ -1,6 +1,11 @@
 # Hey! What's up? 👋
 
 I know absolutely ✨nothing✨
+
+.... for now
+
+## :muscle: I'm currently learning:
+ • still ✨nothing✨
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
