@@ -1,7 +1,8 @@
-# Hey! What's up? <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" width="30px">
-   I know absolutely ✨ __*NOTHING*__ ✨
+<h1 align="center"> Hey! What's up? <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" width="30px"></h1>
 
-### :bulb: I'm interested in learning: 
+I am an aspiring software engineer that also has an interest in full stack web development but I know absolutely <b><i>✨ NOTHING ✨</i></b>
+
+### :bulb: As of now, I plan on studying: 
 
 [![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=orange)]()
 [![flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)]()
@@ -10,7 +11,7 @@
 [![bootstrap](https://img.shields.io/badge/-bootstrap-purple?style=for-the-badge&logo=bootstrap)]()
 [![vue.js](http://img.shields.io/badge/-vue.js-35495e?style=for-the-badge&logo=vue.js)]()
 
-### :muscle: I'm currently learning:
+### :muscle: I'm currently studying:
 nothing.
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
