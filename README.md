@@ -2,7 +2,7 @@
 
 I am an aspiring software engineer, who also has an interest in full stack web development, but I know absolutely <b><i>✨ NOTHING ✨</i></b>
 
-### :bulb: As of now, I plan on studying: 
+### :bulb: As of now, I plan on learning: 
 
 [![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=orange)]()
 [![flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)]()
