@@ -4,7 +4,6 @@ I am an aspiring software engineer, who also has an interest in full stack web d
 
 ### :bulb: As of now, I plan on learning: 
 
-[![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=orange)]()
 [![flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)]()
 [![python](https://img.shields.io/badge/-python-gold?style=for-the-badge&logo=python)]()
 [![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)]()
