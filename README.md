@@ -1,6 +1,6 @@
 <h1 align="center"> Hey! What's up? <img src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" width="30px"></h1>
 
-I am an aspiring software engineer that also has an interest in full stack web development but I know absolutely <b><i>✨ NOTHING ✨</i></b>
+I am an aspiring software engineer, who also has an interest in full stack web development, but I know absolutely <b><i>✨ NOTHING ✨</i></b>
 
 ### :bulb: As of now, I plan on studying: 
 
