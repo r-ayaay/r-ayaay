@@ -6,11 +6,10 @@ I am an aspiring software engineer, who also has an interest in full stack web d
 
 [![python](https://img.shields.io/badge/-python-gold?style=for-the-badge&logo=python)]()
 [![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![bootstrap](https://img.shields.io/badge/-bootstrap-purple?style=for-the-badge&logo=bootstrap)]()
 [![vue.js](http://img.shields.io/badge/-vue.js-35495e?style=for-the-badge&logo=vue.js)]()
 [![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 ### :muscle: I'm currently studying:
-nothing.
+[![html](http://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
