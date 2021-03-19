@@ -9,7 +9,8 @@ I am an aspiring software engineer, who also has an interest in full stack web d
 [![vue.js](http://img.shields.io/badge/-vue.js-35495e?style=for-the-badge&logo=vue.js)]()
 [![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 ### :muscle: I'm currently studying:
-[![html](http://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![html](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![css](http://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
