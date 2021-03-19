@@ -8,7 +8,7 @@ I am an aspiring software engineer, who also has an interest in full stack web d
 [![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![bootstrap](https://img.shields.io/badge/-bootstrap-purple?style=for-the-badge&logo=bootstrap)]()
 [![vue.js](http://img.shields.io/badge/-vue.js-35495e?style=for-the-badge&logo=vue.js)]()
-
+[![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php)]()
 ### :muscle: I'm currently studying:
 nothing.
 <!--
