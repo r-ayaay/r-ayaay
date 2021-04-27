@@ -5,12 +5,13 @@ I am an aspiring software engineer, who also has an interest in full stack web d
 ### :bulb: As of now, I plan on learning: 
 [![python](https://img.shields.io/badge/-python-gold?style=for-the-badge&logo=python)]()
 [![vue.js](http://img.shields.io/badge/-vue.js-35495e?style=for-the-badge&logo=vue.js)]()
-[![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
+
 ### :muscle: I'm currently studying:
-[![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
 ### I have experience in:
 [![html](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![css](http://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
