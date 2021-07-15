@@ -7,12 +7,14 @@ I am an aspiring software engineer, who also has an interest in full stack web d
 [![vue.js](http://img.shields.io/badge/-vue.js-35495e?style=for-the-badge&logo=vue.js)]()
 
 ### :muscle: I'm currently studying:
-[![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
+
 ### I have experience in:
 [![html](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![css](http://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
+[![react](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=laravel)]()
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
