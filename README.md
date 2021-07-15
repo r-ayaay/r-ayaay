@@ -14,7 +14,7 @@ I am an aspiring software engineer, who also has an interest in full stack web d
 [![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
-[![react](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=laravel)]()
+[![react](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
