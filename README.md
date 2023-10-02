@@ -19,6 +19,7 @@ I am an aspiring web developer, who is more inclined towards frontend developmen
 [![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
 [![react](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+[![livewire](http://img.shields.io/badge/-livewire-pink?style=for-the-badge&logo=livewire&logoColor=4E56A6)]()
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
