@@ -20,7 +20,7 @@ I am an aspiring web developer, who is more inclined towards frontend developmen
 [![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
 [![react](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
 [![livewire](http://img.shields.io/badge/-livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=pink)]()
-[![Jira Software](http://img.shields.io/badge/-jirasoftware-#0052CC?style=for-the-badge&logo=jirasoftware&logoColor=blue)]()
+[![Jira Software](http://img.shields.io/badge/-jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=blue)]()
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
