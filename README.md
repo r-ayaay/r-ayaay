@@ -1,13 +1,18 @@
 <h1 align="center"> Hey! What's up? </h1>
 <!-- <img style="width: 30px; height: 30px" src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" > -->
-website developer & desginer
-<div style="text-align: center;">
-  Currently working as a freelancer
-  Check me here:<br>
+
+
+<div align="center">
+  
+  I'm a website developer & desginer working as a freelancer<br>
+  
+  Feel free to check me here!<br>
   <a target="_blank" href="https://www.linkedin.com/in/raya-ay/">![](http://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a target="_blank" href="https://www.onlinejobs.ph/jobseekers/info/3340086">![](https://img.shields.io/badge/onlinejobs.ph-08456d?style=for-the-badge)</a>
   <a target="_blank" href="https://www.upwork.com/freelancers/~0113dd4c063563ba2b">![](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)</a>
+  
 </div>
+
 ## Languages
 [![css](http://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![html](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
