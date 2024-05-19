@@ -3,15 +3,17 @@
 website developer & desginer
 
 Currently working as a freelancer
-Check me here!
-<a href="https://www.onlinejobs.ph/jobseekers/info/3340086">![](https://img.shields.io/badge/onlinejobs.ph-08456d?style=for-the-badge)</a>
+Check me here:<br>
+<a target="_blank" href="https://www.linkedin.com/in/raya-ay/">[![](http://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()</a>
+<a target="_blank" href="https://www.onlinejobs.ph/jobseekers/info/3340086">[![](https://img.shields.io/badge/onlinejobs.ph-08456d?style=for-the-badge)]()</a>
+<a target="_blank" href="https://www.onlinejobs.ph/jobseekers/info/3340086">[![](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]()</a>
 
 ## Languages
-[![css](http://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
-![html](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)
-![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![sass](http://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+[![css](http://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![html](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![sass](http://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
 
 ## Frameworks 
 [![laravel](http://img.shields.io/badge/-laravel-171923?style=for-the-badge&logo=laravel)]()
