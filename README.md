@@ -4,9 +4,9 @@ website developer & desginer
 
 Currently working as a freelancer
 Check me here:<br>
-<a target="_blank" href="https://www.linkedin.com/in/raya-ay/">[![](http://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()</a>
-<a target="_blank" href="https://www.onlinejobs.ph/jobseekers/info/3340086">[![](https://img.shields.io/badge/onlinejobs.ph-08456d?style=for-the-badge)]()</a>
-<a target="_blank" href="https://www.onlinejobs.ph/jobseekers/info/3340086">[![](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]()</a>
+<a target="_blank" href="https://www.linkedin.com/in/raya-ay/">[![](http://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]</a>
+<a target="_blank" href="https://www.onlinejobs.ph/jobseekers/info/3340086">[![](https://img.shields.io/badge/onlinejobs.ph-08456d?style=for-the-badge)]</a>
+<a target="_blank" href="https://www.onlinejobs.ph/jobseekers/info/3340086">[![](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]</a>
 
 ## Languages
 [![css](http://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
