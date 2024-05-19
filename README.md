@@ -2,19 +2,7 @@
 <!-- <img style="width: 30px; height: 30px" src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" > -->
 I am a website developer & desginer
 
-<!-- but I know absolutely <b><i>✨ NOTHING ✨</i></b> -->
-
-<!-- ### :bulb: As of now, I plan on learning: 
-[![python](https://img.shields.io/badge/-python-gold?style=for-the-badge&logo=python)]()
-[![vue.js](http://img.shields.io/badge/-vue.js-35495e?style=for-the-badge&logo=vue.js)]()
-
-### :muscle: I'm currently studying:
- -->
-
-## I have experience in:
-
-
-
+Currently working as a freelancer
 
 ## Languages
 [![html](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
