@@ -11,15 +11,24 @@ I am a website developer & desginer
 ### :muscle: I'm currently studying:
  -->
 
-### I have experience in:
+## I have experience in:
+
+[![react](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+
+
+## Languages
 [![html](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![css](http://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![sass](http://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
 [![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+
+## Libraries & Frameworks 
 [![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
-[![react](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+[![next.js](http://img.shields.io/badge/-nextdotjs-black?style=for-the-badge&logo=nextdotjs&color=white)]()
 [![livewire](http://img.shields.io/badge/-livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=pink)]()
+
+## Tools
 [![Jira Software](http://img.shields.io/badge/-jirasoftware-white?style=for-the-badge&logo=jirasoftware&logoColor=0052CC)]()
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
