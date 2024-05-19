@@ -27,14 +27,20 @@ I am a website developer & desginer
 [![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
 [![next.js](http://img.shields.io/badge/-next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 [![livewire](http://img.shields.io/badge/-livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=pink)]()
+[![vue](http://img.shields.io/badge/-vue-3a4f63?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D)]()
 
 ## Libraries
 [![react](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![vue](http://img.shields.io/badge/-vue-3a4f63?style=for-the-badge&logo=vue&logoColor=#4FC08D)]()
 [![threejs](http://img.shields.io/badge/-three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)]()
+[![shadcn](http://img.shields.io/badge/-shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)]()
 
 ## Tools
-[![Jira Software](http://img.shields.io/badge/-jirasoftware-white?style=for-the-badge&logo=jirasoftware&logoColor=0052CC)]()
+[![jira](http://img.shields.io/badge/-jira-white?style=for-the-badge&logo=jirasoftware&logoColor=0052CC)]()
+[![figma](http://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
+[![vscode](http://img.shields.io/badge/-vs%20code-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)]()
+[![Webflow](http://img.shields.io/badge/-webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)]()
+[![Wordpress](http://img.shields.io/badge/-wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
+[![Wix](http://img.shields.io/badge/-wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)]()
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
