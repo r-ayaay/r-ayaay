@@ -7,7 +7,7 @@ Check me here!
 <a href="https://www.onlinejobs.ph/jobseekers/info/3340086">![](https://img.shields.io/badge/onlinejobs.ph-08456d?style=for-the-badge)</a>
 
 ## Languages
-![css](http://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![css](http://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
 ![html](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)
 ![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)
