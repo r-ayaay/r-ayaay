@@ -1,6 +1,6 @@
 <h1 align="center"> Hey! What's up? </h1>
 <!-- <img style="width: 30px; height: 30px" src="https://raw.githubusercontent.com/r-ayaay/r-ayaay/main/wave.gif" > -->
-I am an aspiring web developer, who is more inclined towards frontend development
+I am a website developer & desginer
 
 <!-- but I know absolutely <b><i>✨ NOTHING ✨</i></b> -->
 
