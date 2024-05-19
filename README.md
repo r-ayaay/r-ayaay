@@ -29,7 +29,7 @@ Currently working as a freelancer
 [![vscode](http://img.shields.io/badge/-vs%20code-white?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)]()
 [![webflow](http://img.shields.io/badge/-webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)]()
 [![wordpress](http://img.shields.io/badge/-wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
-[![vim](http://img.shields.io/badge/-vim-0C6EFC?style=for-the-badge&logo=vim&logoColor=white)]()
+[![vim](http://img.shields.io/badge/-vim-019733?style=for-the-badge&logo=vim&logoColor=white)]()
 [![wix](http://img.shields.io/badge/-wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)]()
 <!--
 **r-ayaay/r-ayaay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
