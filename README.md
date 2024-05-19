@@ -13,7 +13,7 @@ I am a website developer & desginer
 
 ## I have experience in:
 
-[![react](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+
 
 
 ## Languages
@@ -23,10 +23,15 @@ I am a website developer & desginer
 [![javascript](https://img.shields.io/badge/-javascript-gold?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 
-## Libraries & Frameworks 
+## Frameworks 
 [![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
-[![next.js](http://img.shields.io/badge/-nextdotjs-black?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+[![next.js](http://img.shields.io/badge/-next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 [![livewire](http://img.shields.io/badge/-livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=pink)]()
+
+## Libraries
+[![react](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+[![vue](http://img.shields.io/badge/-vue-3a4f63?style=for-the-badge&logo=vue&logoColor=#4FC08D)]()
+[![threejs](http://img.shields.io/badge/-three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)]()
 
 ## Tools
 [![Jira Software](http://img.shields.io/badge/-jirasoftware-white?style=for-the-badge&logo=jirasoftware&logoColor=0052CC)]()
