@@ -25,7 +25,7 @@ I am a website developer & desginer
 
 ## Libraries & Frameworks 
 [![laravel](http://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)]()
-[![next.js](http://img.shields.io/badge/-nextdotjs-black?style=for-the-badge&logo=nextdotjs&color=white)]()
+[![next.js](http://img.shields.io/badge/-nextdotjs-black?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 [![livewire](http://img.shields.io/badge/-livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=pink)]()
 
 ## Tools
