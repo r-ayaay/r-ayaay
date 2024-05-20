@@ -28,6 +28,7 @@
 
 ## Libraries
 [![react](http://img.shields.io/badge/-react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![mui](https://img.shields.io/badge/mui-0081cb.svg?style=for-the-badge&logo=mui&logoColor=white)]()
 [![shadcn](http://img.shields.io/badge/-shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)]()
 [![threejs](http://img.shields.io/badge/-three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)]()
 
