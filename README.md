@@ -27,7 +27,7 @@
 [![vue](http://img.shields.io/badge/-vue-3a4f63?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D)]()
 
 ## Libraries
-[![react](http://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![react](http://img.shields.io/badge/-react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![shadcn](http://img.shields.io/badge/-shadcn/ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)]()
 [![threejs](http://img.shields.io/badge/-three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)]()
 
