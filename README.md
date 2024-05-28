@@ -24,7 +24,6 @@
 [![laravel](http://img.shields.io/badge/-laravel-171923?style=for-the-badge&logo=laravel)]()
 [![livewire](http://img.shields.io/badge/-livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=pink)]()
 [![next.js](http://img.shields.io/badge/-next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![vue](http://img.shields.io/badge/-vue-3a4f63?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D)]()
 
 ## Libraries
 [![react](http://img.shields.io/badge/-react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)]()
