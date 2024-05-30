@@ -35,7 +35,7 @@
 ## Tools
 [![docker](http://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![figma](http://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
-[![framer](http://img.shields.io/badge/-framer-0055FF?style=for-the-badge&logo=figma&logoColor=white)]()
+[![framer](http://img.shields.io/badge/-framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)]()
 [![jira](http://img.shields.io/badge/-jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)]()
 [![vim](http://img.shields.io/badge/-vim-019733?style=for-the-badge&logo=vim&logoColor=white)]()
 [![vscode](http://img.shields.io/badge/-vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
