@@ -35,12 +35,12 @@
 ## Tools
 [![docker](http://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![figma](http://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
-[![framer](http://img.shields.io/badge/-framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)]()
+<!-- [![framer](http://img.shields.io/badge/-framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)]() -->
 [![jira](http://img.shields.io/badge/-jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)]()
 [![vim](http://img.shields.io/badge/-vim-019733?style=for-the-badge&logo=vim&logoColor=white)]()
 [![vscode](http://img.shields.io/badge/-vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
-[![webflow](http://img.shields.io/badge/-webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)]()
-[![wix](http://img.shields.io/badge/-wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)]()
+<!-- [![webflow](http://img.shields.io/badge/-webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)]() -->
+<!-- [![wix](http://img.shields.io/badge/-wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)]() -->
 [![wordpress](http://img.shields.io/badge/-wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
 
 <!--
