@@ -4,7 +4,6 @@
 
 <div align="center">
   
-  I'm a website developer & desginer working as a freelancer<br>
   
   Feel free to check me here!<br>
   <a target="_blank" href="https://www.linkedin.com/in/raya-ay/">![](http://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
