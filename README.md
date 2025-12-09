@@ -17,7 +17,8 @@
 [![html](http://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![javascript](https://img.shields.io/badge/-javascript-323330?style=for-the-badge&logo=javascript&logoColor=gold)]()
 [![php](http://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![sass](http://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
+[![kotlin](http://img.shields.io/badge/-kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=orange)]()
+
 
 ## Frameworks 
 [![laravel](http://img.shields.io/badge/-laravel-171923?style=for-the-badge&logo=laravel)]()
